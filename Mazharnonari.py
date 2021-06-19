@@ -142,7 +142,7 @@ print " \x1b[1;93m============================================================="
 
 CorrectUsername = "lovehacker"
 
-CorrectPassword = "03094161457"
+CorrectPassword = "lovehacker"
 
 loop = 'true'
 
